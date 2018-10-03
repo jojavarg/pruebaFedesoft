@@ -1,0 +1,55 @@
+html{
+    background-color: #ccc;
+    font-family: "century gothic";
+    padding-top: 100px;
+}
+#fondo2{
+    width:62%;
+    float: left;
+    padding-left: 2%;
+}
+#fondo1{
+    width:32%;
+    float: left;
+    padding-right: 2%;
+}
+h1{
+    font-family: "century gothic";
+    font-size: 36px;
+    font-weight: normal;
+}
+p.lp{
+    font-size: 20px;
+}
+td.botonazul{
+    padding: 0px 25px;
+    background-color:#28A5BE;
+}
+
+td.botonazul a{
+    text-decoration: none;
+    color: white;
+}
+
+td.botonpequeno{
+    padding: 10px 25px;
+    margin: 15px ;
+    background-color: black;
+}
+
+td.botonpequeno a{
+    text-decoration: none;
+    color: white;
+}
+#superior2{
+    background-color: #eee;
+}
+#fondo3{
+    width:40%;
+    float: left;
+}
+#fondo4{
+    width:48%;
+    float: left;
+    padding:6%;
+}
