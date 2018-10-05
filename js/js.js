@@ -85,7 +85,7 @@
         texto = texto.replace(' ','');
         var arrayTexto = texto.split('');
         var longitud = arrayTexto.length;
-        console.log(arrayTexto);
+       // console.log(arrayTexto);
         for(a=0; a<=longitud; a++){
             if(arrayTexto[a] != arrayTexto.reverse()[a]){
                 valor = false;
